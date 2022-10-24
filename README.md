@@ -6,7 +6,7 @@ Reconhecimento de peixes.
 
 ### OBSERVAÇÕES
 - O treinamento foi feito em 20 etapas (30 etapas estava consumindo muito hardware)
-- Ajustar caminho da linha 5 (imagem = cv.imread)
+- Ajustar caminho da linha 5 conforme necessário (imagem = cv.imread)
 
 ### PROJETO EM FUNCIONAMENTO:
 ![Screenshot_2](https://user-images.githubusercontent.com/63884763/197573622-e492235f-e133-4285-9974-b95916c30e62.png)
